@@ -1,4 +1,5 @@
-[Kamlesh_Resume_Gniot (1).pdf](https://github.com/Kamleshmahto8969/Kamleshmahto8969/files/10298621/Kamlesh_Resume_Gniot.1.pdf)
+![Kamlesh_Resume_Gniot_page-0001](https://user-images.githubusercontent.com/71908367/209437672-f7bf09ba-aaaf-4cb6-b6ca-18ce2b76e811.jpg)
+
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
